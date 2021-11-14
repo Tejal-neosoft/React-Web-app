@@ -1,0 +1,60 @@
+{
+    "data":[
+        {
+            "id":1,"name":"Redmi 9A ","price":2345,"quantity":1,"images":"https://images.pexels.com/photos/6612384/pexels-photo-6612384.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6612384.jpg&fm=jpg"
+        },
+        {
+            "id":2,"name":"Sony TV","price":2450,"quantity":1,"images":"https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876__340.jpg"
+        },
+        {
+            "id":3,"name":"Fridge","price":1445,"quantity":1,"images":"https://cdn.pixabay.com/photo/2016/10/24/21/03/appliance-1767311__340.jpg"
+        },
+        {
+            "id":4,"name":"Smart Watch","price":5000,"quantity":1,"images":"https://cdn.pixabay.com/photo/2015/06/25/17/21/smart-watch-821557__480.jpg"
+        },
+        {
+            "id":5,"name":"AC","price":2500,"quantity":1,"images":"https://cdn.pixabay.com/photo/2019/05/15/10/16/air-conditioner-4204637__340.jpg"
+        },
+        {
+            "id":6,"name":"Samsung Mobile","price":3450,"quantity":1,"images":"https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737__340.jpg"
+        },
+        {
+            "id":7,"name":"Laptop","price":2346,"quantity":1,"images":"https://images.pexels.com/photos/5797997/pexels-photo-5797997.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+            "id":8,"name":"Ipad","price":2350,"quantity":1,"images":"https://cdn.pixabay.com/photo/2013/09/22/09/15/tablet-184888__340.jpg"
+        },
+        {
+            "id":9,"name":"Washing Machine","price":1900,"quantity":1,"images":"https://cdn.pixabay.com/photo/2016/10/31/18/50/washing-machine-1786385__340.png"
+        },
+        {
+            "id":10,"name":"Camera","price":7000,"quantity":1,"images":"https://cdn.pixabay.com/photo/2012/04/13/17/00/camera-32871__340.png"
+        },
+        {
+            "id":11,"name":"Redmi 9A ","price":2345,"quantity":1,"images":"https://images.pexels.com/photos/6612384/pexels-photo-6612384.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6612384.jpg&fm=jpg"
+        },
+        {
+            "id":12,"name":"Sony TV","price":2450,"quantity":1,"images":"https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876__340.jpg"
+        },
+        {
+            "id":13,"name":"Fridge","price":1445,"quantity":1,"images":"https://cdn.pixabay.com/photo/2016/10/24/21/03/appliance-1767311__340.jpg"
+        },
+        {
+            "id":14,"name":"Smart Watch","price":5000,"quantity":1,"images":"https://cdn.pixabay.com/photo/2015/06/25/17/21/smart-watch-821557__480.jpg"
+        },
+        {
+            "id":15,"name":"AC","price":2500,"quantity":1,"images":"https://cdn.pixabay.com/photo/2019/05/15/10/16/air-conditioner-4204637__340.jpg"
+        },
+        {
+            "id":16,"name":"Samsung Mobile","price":3450,"quantity":1,"images":"https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737__340.jpg"
+        },
+        {
+            "id":17,"name":"Laptop","price":2346,"quantity":1,"images":"https://images.pexels.com/photos/5797997/pexels-photo-5797997.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+            "id":18,"name":"Ipad","price":2350,"quantity":1,"images":"https://cdn.pixabay.com/photo/2013/09/22/09/15/tablet-184888__340.jpg"
+        }
+    ]
+}
+
+

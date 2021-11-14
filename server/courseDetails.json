@@ -1,0 +1,110 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "Web Devlopment",
+      "details": "Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services",
+      "price": 15000,
+      "duration": "6 months",
+      "image": "https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Andriod Development",
+      "details": "Android software development is the process by which applications are created for devices running the Android operating system. Google states that Android apps can be written using Kotlin, Java, and C++ languages using the Android software development kit (SDK), while using other languages is also possible.",
+      "duration": "6 months",
+      "price": 17000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFa_GybxuHhnqIgco6X-yyhTuAy_XUKqzU-GreVDmr4z8y4IkVOuEsdsCc487zUOgXj0&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "IOS Devlopment",
+      "details": "IOS development refers to the process of making mobile applications for Apple hardware, including iPhones and iPads. Objective-C and Swift are the two programming languages that developers can use to build these apps. Apple has three requirements for iOS developers: using a Mac computer running the latest version of macOS, downloading Xcode, and having an active Apple Developer account. ",
+      "price": 20000,
+      "duration": "7 months",
+      "image": "https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Blockchain Devlopment",
+      "details": "A blockchain is a decentralized digital ledger that saves transactions on thousands of computers around the globe. These are registered in a way that inhibits their subsequent modification. Blockchain technology increases the security and speeds up the exchange of information in a way that is cost-effective and more transparent. It also dispenses with third parties whose main role was to provide a trust and certification element in transactions (such as notaries and banks).",
+      "price": 25000,
+      "duration": "8 months",
+      "image": "https://www.finance-monthly.com/Finance-Monthly/wp-content/uploads/2017/11/3-Ways-Blockchain-Benefits-Your-Supply-Chain.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Docker ",
+      "details": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels",
+      "price": 15000,
+      "duration": "8 months",
+      "image": "https://miro.medium.com/max/1400/1*b45WH7HHExZq88GsFxtNDA.png"
+    },
+    {
+      "id": 6,
+      "name": "FullStack Development ",
+      "details": "Full stack development: It refers to the development of both front end(client side) and back end(server side) portions of web application.Full stack web Developers: Full stack web developers have the ability to design complete web application and websites. They work on the frontend, backend, database and debugging of web application or websites.",
+      "price": 25000,
+      "duration": "6 months",
+      "image": "https://www.multidots.com/wp-content/uploads/2018/01/Full_stack_developer-1-1.jpg"
+    }
+  ],
+  "formdata": [
+    {
+      "name": "tejal",
+      "email": "tejalsupe@gmail.com",
+      "mobile": "9604464444",
+      "enquiry": "doubt regarding syllabus",
+      "course": "Web Devlopment",
+      "id": 1
+    },
+    {
+      "name": "teju",
+      "email": "teju@gmail.com",
+      "mobile": "7557388383",
+      "enquiry": "hello can you help me",
+      "course": "Web Devlopment",
+      "id": 2
+    },
+    {
+      "name": "xyzz",
+      "email": "xyx@gmail.com",
+      "mobile": "8865637332",
+      "enquiry": "need the joining date",
+      "course": "Blockchain Devlopment",
+      "id": 3
+    },
+    {
+      "name": "abcd",
+      "email": "abcd@gmail.com",
+      "mobile": "7684873983",
+      "enquiry": "doubt on syllabus",
+      "course": "Docker",
+      "id": 4
+    },
+    {
+      "name": "mayuri",
+      "email": "mayurik@gmail.com",
+      "mobile": "7373983938",
+      "enquiry": "doubt in fees",
+      "course": "FullStack Development",
+      "id": 5
+    },
+    {
+      "name": "mayuri",
+      "email": "tejalsupe@gmail.com",
+      "mobile": "7760446522",
+      "enquiry": "hey hello hh",
+      "course": "Web Devlopment",
+      "id": 6
+    },
+    {
+      "name": "aaaq",
+      "email": "wuyh@gmail.com",
+      "mobile": "8604465225",
+      "enquiry": "yuiudhwoiwjfwf",
+      "course": "Web Devlopment",
+      "id": 7
+    }
+  ]
+}
